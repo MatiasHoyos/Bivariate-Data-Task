@@ -1,1 +1,2 @@
 # Bivariate-Data-Task
+In this exercise I have learned about bivariate data and linear regressions. Additionally, I have better improved my data graphing skills and learned to employ tools such as the plt. library. I was also able to find the strenght of a correlation between two variables and  understand why the correlation occurs. Finally, I learned to plot a line of best fit or liner regression by employing the values of R squared.
